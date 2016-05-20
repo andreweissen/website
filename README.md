@@ -16,6 +16,6 @@ The site is fully responsive, and has been designed to appear attractive on both
 
 * Images have been compressed and correctly sized to further decrease loading time.
 
-* Original png images have been replaced by a single SVG that resizes based on the screen width.
+* Original png logos have been replaced by a single SVG that resizes based on the screen width.
 
 * Quick-click icons at the bottom of the page now respond to mouse-hover events.
